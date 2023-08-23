@@ -5,12 +5,17 @@ body {
 h2 {
   color: aqua;
   font-weight: 400;
-  font-style: oblique;
+}
+a {
+  color: white;
+}
+.my-5 {
+  text-align: justify;
 }
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url(../img/dev5.jpg);
+  background-image: url(../img/background-image.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
